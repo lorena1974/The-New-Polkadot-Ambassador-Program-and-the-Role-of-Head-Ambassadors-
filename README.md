@@ -11,7 +11,7 @@ The objective from the beginning was to educate and to give visibility to the ec
 
 The Ambassador Program was managed by the Web3 Foundation and coordinated by Parity until January 2024. After several years, I believe the objective was achieved.
 
-#### What are the differences between the previous program and this new one?
+### What are the differences between the previous program and this new one?
 
 As it was mentioned earlier, the program was managed by the Web3 Foundation.
 
@@ -40,15 +40,15 @@ Unlike what happens with the Head Ambassadors, senior ambassadors will be chosen
 
 This means that previous ambassadors should be re-selected to continue their role and will not automatically become ambassadors in the new program.
 
-##### What are the advantages of the program being on-chain?
+### What are the advantages of the program being on-chain?
 
 The advantages are very clear as the Ambassador Program has become an on-chain collective, the second in the ecosystem after the Fellowship, which provides transparency and decentralization. Decisions are made by referendum, on-chain, the treasury is on-chain, and it also returns power to the community, token holders, and ambassadors with recognition and incentives for ambassadors.
 
-###### What is the Function of Head Ambassadors in the new Ambassador Program?
+### What is the Function of Head Ambassadors in the new Ambassador Program?
 
 The function of Head Ambassadors focuses on business development and also continues to connect ecosystem members, connect with organizations, entities, and individuals, educate the ecosystem, represent the Polkadot brand, contribute to the growth of the Polkadot ecosystem, promote Polkadot with both technical and non-technical approaches, with impact, and always under the concept of understanding the philosophy of Polkadot.
 
-###### How and when to apply?
+### How and when to apply?
 
 After the approval of the referendum, the fellowship is working on the implementation of the specific pallet that allows the selection of Head Ambassadors in an on-chain manner and the availability of a treasury. 
 The pallet development will be completed in approximately three months (from the date of this article).
